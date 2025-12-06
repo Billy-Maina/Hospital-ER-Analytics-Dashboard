@@ -119,6 +119,18 @@ Core DAX was used to compute behavioral metrics, quality indicators, and operati
 - **Adults ages 30–50 represent the largest demographic group**, with significant representation across middle-aged and elderly groups.
 - **Satisfaction score averages ~4.99**, indicating a generally positive patient experience with opportunities for improvement linked to waiting time.
 
+## Recommendations  
+
+Based on the insights drawn, the following actions are recommended to guide operational and strategic decision-making:  
+
+- **Optimize Staffing**: Adjust staff schedules to match peak patient volumes (Mondays, Tuesdays, Saturdays, midday and late evening) and ensure coverage in high-demand departments like General Practice and Orthopedics.  
+- **Reduce Wait Times**: Streamline triage and patient flow processes to target the 30-minute wait standard, minimizing bottlenecks during peak hours.  
+- **Manage Referrals Efficiently**: Review referral patterns to balance departmental workload and improve patient routing.  
+- **Enhance Patient Experience**: Focus on middle-aged and elderly patient groups with tailored care strategies and monitor satisfaction trends linked to wait times.  
+- **Leverage Data Continuously**: Use dashboards for ongoing monitoring, audit validation, and evidence-based decision-making to sustain improvements.  
+
+**Next Step:** Implement these recommendations and continuously monitor KPIs through the dashboards to ensure operational efficiency, improved patient outcomes, and informed leadership decisions.  
+
 ---
 
 ##  Tools & Technologies
